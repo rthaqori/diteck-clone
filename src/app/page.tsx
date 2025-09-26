@@ -275,7 +275,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="relative mt-16 rounded-2xl bg-[#0A0F42] px-5 pt-12 pb-20 lg:mt-20 lg:rounded-[40px] lg:pt-36 lg:pb-40">
+      <section className="relative mt-16 rounded-2xl bg-[#0A0F42] px-5 pt-12 pb-20 lg:mt-20 lg:rounded-[40px] lg:pt-6 lg:pb-40">
         <TitleSection
           className="mt-0 text-white"
           text="Our services"
